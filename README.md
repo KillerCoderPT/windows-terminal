@@ -26,42 +26,42 @@ Press `ctrl + shift + -` to split the pane in auto.
 In my case, I have 6 profiles
 
 
-**Git Bash**
+### **Git Bash**
 
 Press `ctrl + shift + 1` to split the pane in vertical.
 
 Press `ctrl + alt + 1` to split the pane in horizontal.
 
 
-**Debian**
+### **Debian**
 
 Press `ctrl + shift + 2` to split the pane in vertical.
 
 Press `ctrl + alt + 2` to split the pane in horizontal.
 
 
-**Kali Linux**
+### **Kali Linux**
 
 Press `ctrl + shift + 3` to split the pane in vertical.
 
 Press `ctrl + alt + 3` to split the pane in horizontal.
 
 
-**Windows PowerShell**
+### **Windows PowerShell**
 
 Press `ctrl + shift + 4` to split the pane in vertical.
 
 Press `ctrl + alt + 4` to split the pane in horizontal.
 
 
-**Command Prompt**
+### **Command Prompt**
 
 Press `ctrl + shift + 5` to split the pane in vertical.
 
 Press `ctrl + alt + 5` to split the pane in horizontal.
 
 
-**Azure Cloud Shell**
+### **Azure Cloud Shell**
 
 Press `ctrl + shift + 6` to split the pane in vertical.
 

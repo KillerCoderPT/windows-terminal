@@ -5,13 +5,13 @@ This are my settings for the windows terminal.
 
 
 ---
-### Search
+## Search
 
 Press `Ctrl + Shift + F` to open the search box.
 
 
 ---
-### Normal Pane Splits
+## Normal Pane Splits
 
 Press `ctrl + shift + e` to split the pane in vertical.
 
@@ -21,7 +21,7 @@ Press `ctrl + shift + -` to split the pane in auto.
 
 
 ---
-### Split Pane with Profiles
+## Split Pane with Profiles
 
 In my case, I have 6 profiles
 
@@ -69,7 +69,7 @@ Press `ctrl + alt + 6` to split the pane in horizontal.
 
 
 ---
-### Switch between Panes
+## Switch between Panes
 
 Press `ctrl + left` to go left.
 
@@ -81,7 +81,7 @@ Press `ctrl + bottom` to go bottom.
 
 
 ---
-### Generate a new GUID
+## Generate a new GUID
 
 Lets imagine we have a new terminal and we want to create a new profile.
 
@@ -103,13 +103,13 @@ Now we can use the new generated GUID in our new profile.
 
 
 ---
-### Starting Directory with WSL
+## Starting Directory with WSL
 
 For us to choose a starting directory when we launch a WSL terminal, we need to add a follow line to our profile:
 
 `"startingDirectory": "//wsl$/[SO DISTRO]/[PATH]"`
 
-##### For Debian/Kali
+#### For Debian/Kali
 ````
 "startingDirectory": "//wsl$/Debian/home/[YOUR USERNAME]"
 ````
